@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="Html5.Mvc..e2669fbe-fc4a-49fa-b03a-7490a13efbcd" Version="1.0" Language="en-US" Publisher="Martin Laritz" />
+    <DisplayName>Html5 MVC Template</DisplayName>
+    <Description xml:space="preserve">A base template for using HTML5 with an Asp.Net MVC website.</Description>
+    <MoreInfo>https://github.com/MLaritz/HTML5.MVC</MoreInfo>
+    <Icon>HTML5_Logo_64.png</Icon>
+    <Tags>HTML5 MVC </Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="11.0" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="4.5" />
+  </Dependencies>
+</PackageManifest>
