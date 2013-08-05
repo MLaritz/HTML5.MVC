@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Html5.Mvc", "Html5.Mvc\Html5.Mvc.csproj", "{4DA8755F-A3C2-46E1-8869-ED5339024FB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Html5.Mvc.Template", "..\Html5.Mvc.Template\Html5.Mvc.Template\Html5.Mvc.Template.csproj", "{5D59F292-2245-447D-92BE-75D7CE442D06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Html5.Mvc.Template", "Html5.Mvc.Template\Html5.Mvc.Template.csproj", "{5D59F292-2245-447D-92BE-75D7CE442D06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
